@@ -1,10 +1,7 @@
 
 # 🔥 **Fire Propagation Simulation in Forests**
 
-📅 **Duration**: Mar 2023 – May 2023  
-**Technologies**: Python, Graph Theory, Probability, Physics  
 
----
 
 ## 📝 **Project Overview**
 This project simulates forest fire propagation using a **Graph Theory** approach and the **Rothermel model** to compute fire spread probabilities. By implementing a **Monte Carlo Algorithm**, the simulation mimics fire behavior in various conditions, providing a dynamic and realistic representation. A simple **GUI** is built using **NetworkX** for real-time visualization of the fire spread across forest landscapes.
