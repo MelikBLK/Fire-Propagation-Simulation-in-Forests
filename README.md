@@ -22,7 +22,7 @@ This project simulates forest fire propagation using a **Graph Theory** approach
 ## 📂 **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fire-propagation-simulation.git
+   git clone https://github.com/MelikBLK/fire-propagation-simulation.git
    ```
 2. Install the required Python libraries:
    ```bash
